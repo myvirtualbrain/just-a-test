@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/myvirtualbrain/just-a-test/static/css/main.073c9b0a.css",
-    "main.js": "/myvirtualbrain/just-a-test/static/js/main.db90a529.js",
-    "static/js/787.40921af1.chunk.js": "/myvirtualbrain/just-a-test/static/js/787.40921af1.chunk.js",
-    "static/media/logo.svg": "/myvirtualbrain/just-a-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/myvirtualbrain/just-a-test/index.html",
-    "main.073c9b0a.css.map": "/myvirtualbrain/just-a-test/static/css/main.073c9b0a.css.map",
-    "main.db90a529.js.map": "/myvirtualbrain/just-a-test/static/js/main.db90a529.js.map",
-    "787.40921af1.chunk.js.map": "/myvirtualbrain/just-a-test/static/js/787.40921af1.chunk.js.map"
+    "main.css": "/just-a-test/static/css/main.073c9b0a.css",
+    "main.js": "/just-a-test/static/js/main.64101ca9.js",
+    "static/js/787.40921af1.chunk.js": "/just-a-test/static/js/787.40921af1.chunk.js",
+    "static/media/logo.svg": "/just-a-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/just-a-test/index.html",
+    "main.073c9b0a.css.map": "/just-a-test/static/css/main.073c9b0a.css.map",
+    "main.64101ca9.js.map": "/just-a-test/static/js/main.64101ca9.js.map",
+    "787.40921af1.chunk.js.map": "/just-a-test/static/js/787.40921af1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.db90a529.js"
+    "static/js/main.64101ca9.js"
   ]
 }
